@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/00_Scene/04_Easy_Movie.unity
+  isLoaded: 1
+  isActive: 1
