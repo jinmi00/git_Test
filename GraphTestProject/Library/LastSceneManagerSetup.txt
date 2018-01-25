@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Graph_Maker/Examples/X_WorldSpace/X_WorldSpace.unity
+- path: Assets/00_Scene/00_Test.unity
   isLoaded: 1
   isActive: 1
