@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Graph_Maker/Examples/X_Tutorial_1/X_Tutorial_1.unity
+- path: Assets/00_Scene/01_UITest.unity
   isLoaded: 1
   isActive: 1

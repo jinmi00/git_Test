@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTestProject", "Assembly-CSharp-firstpass.csproj", "{C6E1F672-3A78-3BFC-3524-BBDB85585D0E}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTestProject", "Assembly-CSharp.csproj", "{21DC3182-E311-2E0F-060C-258EF0E51DDA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphTestProject", "Assembly-CSharp-Editor.csproj", "{C4D11999-BC62-A911-5037-0595E35A59A6}"
@@ -11,6 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6E1F672-3A78-3BFC-3524-BBDB85585D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E1F672-3A78-3BFC-3524-BBDB85585D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E1F672-3A78-3BFC-3524-BBDB85585D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E1F672-3A78-3BFC-3524-BBDB85585D0E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{21DC3182-E311-2E0F-060C-258EF0E51DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{21DC3182-E311-2E0F-060C-258EF0E51DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21DC3182-E311-2E0F-060C-258EF0E51DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
