@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Plugins/StansAssets/Modules/AndroidNative/xExample/Scenes/Playmaker/BillingWithPlaymakerExample.unity
+- path: Assets/00_Scene/06_Android.unity
   isLoaded: 1
   isActive: 1
